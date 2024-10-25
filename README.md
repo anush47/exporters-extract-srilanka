@@ -35,7 +35,7 @@ The `Sri Lanka Exporters Directory Scraper` fetches and parses web pages from th
 2. **Create a virtual environment**:
    ```bash
    python -m venv venv
-   venv\Scripts\activate
+   venv/Scripts/activate
    ```
 
 3. **Install dependencies**:
