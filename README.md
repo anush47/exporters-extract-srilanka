@@ -11,7 +11,6 @@ This project is a Python-based web scraper designed to extract exporter informat
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [License](#license)
 
 ## Project Overview
 
@@ -72,9 +71,3 @@ exporters-extract-srilanka/
 ├── requirements.txt          # Project dependencies
 └── .gitignore                # Git ignore file for excluding unnecessary files
 ```
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
