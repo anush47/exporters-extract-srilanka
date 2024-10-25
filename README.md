@@ -1,5 +1,3 @@
-Got it! Here’s an updated README.md with the repository link:
-
 ---
 
 # Sri Lanka Exporters Directory Scraper
@@ -79,6 +77,4 @@ exporters-extract-srilanka/
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
---- 
-
-Let me know if there’s anything else you’d like to add!
+---
